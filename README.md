@@ -63,5 +63,3 @@ TROUBLESHOOTING
   to see any error messages.
 * "Move Up/Down" behaving weirdly: Clear the search bar first. 
   Sorting only works correctly when the full list is visible.
-
-===================================================================
