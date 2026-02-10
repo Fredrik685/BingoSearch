@@ -1,8 +1,4 @@
-===================================================================
-                     BINGO SEARCH v1.51
-                  Installation & Setup Guide
-===================================================================
-
+BINGO SEARCH v1.51
 DESCRIPTION
 -----------
 Bingo Search is a lightweight database tool designed to organize 
